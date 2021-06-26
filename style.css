@@ -1,0 +1,20 @@
+body{
+    text-align: center;
+    background-color: rgb(84, 84, 170);
+}
+h1{
+    margin: 5% auto;
+    color: cyan;
+    font-size: 4rem;
+    font-family: 'Berkshire Swash', cursive;
+}
+img{
+    height: 70%;
+    width: 70%;
+    border-radius: 20%;
+}
+.con{
+    margin: 8% auto;
+    color: whitesmoke;
+    font-family: 'Delius', cursive;
+}
